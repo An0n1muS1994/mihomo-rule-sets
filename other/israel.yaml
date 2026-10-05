@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,gov.il
+  - DOMAIN-SUFFIX,free-cio.openapi.gov.il
   - DOMAIN-SUFFIX,login.gov.il
   - DOMAIN-SUFFIX,govisit.gov.il
   - DOMAIN-SUFFIX,btl.gov.il
