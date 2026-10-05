@@ -1,0 +1,76 @@
+payload:
+  - DOMAIN-SUFFIX,gov.il
+  - DOMAIN-SUFFIX,btl.gov.il
+  - DOMAIN-SUFFIX,taxes.gov.il
+  - DOMAIN-SUFFIX,govmap.gov.il
+  - DOMAIN-SUFFIX,justice.gov.il
+  - DOMAIN-SUFFIX,mof.gov.il
+  - DOMAIN-SUFFIX,moh.gov.il
+  - DOMAIN-SUFFIX,education.gov.il
+  - DOMAIN-SUFFIX,transportation.gov.il
+  - DOMAIN-SUFFIX,police.gov.il
+  - DOMAIN-SUFFIX,iaa.gov.il
+  - DOMAIN-SUFFIX,knesset.gov.il
+
+  - DOMAIN-SUFFIX,bankhapoalim.co.il
+  - DOMAIN-SUFFIX,leumi.co.il
+  - DOMAIN-SUFFIX,discountbank.co.il
+  - DOMAIN-SUFFIX,mizrahi-tefahot.co.il
+  - DOMAIN-SUFFIX,fibi.co.il
+  - DOMAIN-SUFFIX,bank-yahav.co.il
+  - DOMAIN-SUFFIX,bankjerusalem.co.il
+
+  - DOMAIN-SUFFIX,isracard.co.il
+  - DOMAIN-SUFFIX,max.co.il
+  - DOMAIN-SUFFIX,cal-online.co.il
+  - DOMAIN-SUFFIX,paybox.co.il
+
+  - DOMAIN-SUFFIX,clalit.co.il
+  - DOMAIN-SUFFIX,maccabi4u.co.il
+  - DOMAIN-SUFFIX,meuhedet.co.il
+  - DOMAIN-SUFFIX,leumit.co.il
+
+  - DOMAIN-SUFFIX,bezeq.co.il
+  - DOMAIN-SUFFIX,cellcom.co.il
+  - DOMAIN-SUFFIX,partner.co.il
+  - DOMAIN-SUFFIX,pelephone.co.il
+  - DOMAIN-SUFFIX,hot.net.il
+  - DOMAIN-SUFFIX,hotmobile.co.il
+
+  - DOMAIN-SUFFIX,israelpost.co.il
+
+  - DOMAIN-SUFFIX,shufersal.co.il
+  - DOMAIN-SUFFIX,rami-levy.co.il
+  - DOMAIN-SUFFIX,victory.co.il
+  - DOMAIN-SUFFIX,ivory.co.il
+  - DOMAIN-SUFFIX,ksp.co.il
+  - DOMAIN-SUFFIX,lastprice.co.il
+  - DOMAIN-SUFFIX,super-pharm.co.il
+
+  - DOMAIN-SUFFIX,yad2.co.il
+  - DOMAIN-SUFFIX,madlan.co.il
+
+  - DOMAIN-SUFFIX,ynet.co.il
+  - DOMAIN-SUFFIX,walla.co.il
+  - DOMAIN-SUFFIX,mako.co.il
+  - DOMAIN-SUFFIX,haaretz.co.il
+  - DOMAIN-SUFFIX,israelhayom.co.il
+  - DOMAIN-SUFFIX,globes.co.il
+  - DOMAIN-SUFFIX,themarker.com
+  - DOMAIN-SUFFIX,n12.co.il
+  - DOMAIN-SUFFIX,kan.org.il
+
+  - DOMAIN-SUFFIX,rail.co.il
+  - DOMAIN-SUFFIX,ravkavonline.co.il
+  - DOMAIN-SUFFIX,egged.co.il
+  - DOMAIN-SUFFIX,dan.co.il
+
+  - DOMAIN-SUFFIX,alljobs.co.il
+  - DOMAIN-SUFFIX,drushim.co.il
+  - DOMAIN-SUFFIX,jobmaster.co.il
+
+  - DOMAIN-SUFFIX,huji.ac.il
+  - DOMAIN-SUFFIX,tau.ac.il
+  - DOMAIN-SUFFIX,technion.ac.il
+  - DOMAIN-SUFFIX,weizmann.ac.il
+  - DOMAIN-SUFFIX,bgu.ac.il
